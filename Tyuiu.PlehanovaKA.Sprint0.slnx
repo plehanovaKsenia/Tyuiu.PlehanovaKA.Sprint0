@@ -13,6 +13,6 @@
   <Folder Name="/Task3/">
     <Project Path="Tyuiu.PlehanovaKA.Sprint0.Task3.V0.Lib/Tyuiu.PlehanovaKA.Sprint0.Task3.V0.Lib.csproj" Id="51c5b8bf-629a-4446-ab93-710df99f318d" />
     <Project Path="Tyuiu.PlehanovaKA.Sprint0.Task3.V0.Test/Tyuiu.PlehanovaKA.Sprint0.Task3.V0.Test.csproj" Id="61fde643-6739-48c9-b9fe-7fe8da6ddc11" />
-    <Project Path="using Tyuiu.PlehanovaKA.Sprint0.Task3V0/Tyuiu.PlehanovaKA.Sprint0.Task3.V0.csproj" Id="42897cbb-5ac7-440c-9e20-11ba2fe56218" />
+    <Project Path="using Tyuiu.PlehanovaKA.Sprint0.Task3V0/Tyuiu.PlehanovaKA.Sprint0.Task3.V00.csproj" Id="42897cbb-5ac7-440c-9e20-11ba2fe56218" />
   </Folder>
 </Solution>
